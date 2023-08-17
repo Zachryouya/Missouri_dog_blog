@@ -1,0 +1,106 @@
+body {
+    font-family: serif;
+    background-color: black;
+}
+
+li {
+    list-style: none;
+}
+
+main {
+    background-color: black;
+}
+
+
+
+.header {
+    height: 100px;
+    background-color: darkslategray;
+}
+
+.header-logo {
+    float: left;
+}
+
+.header-list {
+    float: left;
+    font-size: 36px;
+}
+
+.header-list li {
+    float: left;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+
+
+
+
+
+.container {
+    margin: 100px 100px;
+    background-color: rgb(22, 51, 51);
+    height: 300px;
+}
+
+.contents img {
+    float: left;
+    margin-right: 30px;
+}
+
+.contents-message {
+    padding-top: 10px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+
+.contents h1 {
+    font-size: 36px;
+}
+
+.contents p {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.btn {
+    background-color: rgb(19, 83, 58);
+    padding: 12px 24px;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.read {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+
+
+
+.footer {
+    height: 200px;
+    background-color: darkslategray;
+}
+
+.footer-logo {
+    float: left;
+}
+
+.footer-list {
+    float: left;
+    font-size: 36px;
+}
+
+.footer-list li {
+    float: left;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 50px;
+}

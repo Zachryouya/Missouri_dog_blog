@@ -1,0 +1,108 @@
+body {
+    font-family: serif;
+    background-color: black;
+}
+
+li {
+    list-style: none;
+}
+
+main {
+    background-color: black;
+}
+
+
+
+.header {
+    height: 100px;
+    background-color: darkslategray;
+}
+
+.header-logo {
+    float: left;
+}
+
+.header-list {
+    float: left;
+    font-size: 36px;
+}
+
+.header-list li {
+    float: left;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+
+
+
+
+.top-wrapper {
+    background-image: cover;
+    margin-top: 50px;
+}
+
+.container {
+    margin: auto;
+    background-color: rgb(22, 51, 51);
+    height: 800px;
+    width: 700px;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+h1 {
+    font-size: 36px;
+    color: yellow;
+    font-style: oblique;
+    text-align: center;
+}
+
+.container p {
+    font-size: 25px;
+    text-align: left;
+    letter-spacing: 2px;
+}
+
+.contents {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.btn {
+    background-color: rgb(19, 83, 58);
+    padding: 12px 24px;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+
+
+
+
+.footer {
+    height: 200px;
+    background-color: darkslategray;
+    margin-top: 50px;
+}
+
+.footer-logo {
+    float: left;
+}
+
+.footer-list {
+    float: left;
+    font-size: 36px;
+}
+
+.footer-list li {
+    float: left;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 50px;
+}
